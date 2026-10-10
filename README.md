@@ -2,6 +2,8 @@
 
 React + FastAPI ESG evidence and agent workspace for Singapore-listed companies.
 
+> Built by team WSP Squad for the PolyFintech 2026 competition: [@fountainnnnn](https://github.com/fountainnnnn), [@chodan1219](https://github.com/chodan1219) and [@zhixunnnnn](https://github.com/zhixunnnnn).
+
 ## Structure
 
 - `frontend/` - Vite, React, TypeScript, Tailwind CSS
